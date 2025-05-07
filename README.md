@@ -24,6 +24,10 @@ Acredito que a tecnologia pode transformar vidas, e estou determinado a evoluir 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
+### Banco de Dados  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+
 ---
 
 📌 *Sempre aberto a conexões, colaborações e oportunidades de aprendizado!*
