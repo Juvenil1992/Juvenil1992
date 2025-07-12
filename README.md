@@ -34,6 +34,7 @@ Acredito que a tecnologia pode transformar vidas, e estou determinado a evoluir 
 
 Projeto 1: https://github.com/Juvenil1992/Automacao-Bot-Game-Tibia  -  Primeiro Projeto Básico de um Bot com funções de rodar na cave , cura e atacar os monstros no Jogo Tibia.
 Primeiro contato com o PyAutogui e PyTesseract, Projeto Focado em Treinar Lógica de Programação.
+Obs: No Link do Repositório estará esplicado detalhadamente o Código.
 
 Projeto 2:
      
