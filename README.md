@@ -30,4 +30,10 @@ Acredito que a tecnologia pode transformar vidas, e estou determinado a evoluir 
 
 ---
 
+###Projetos Pessoais
+
+https://github.com/Juvenil1992/Automacao-Bot-Game-Tibia  -  Primeiro Projeto Básico de um Bot com funções de rodar na cave , cura e atacar os monstros 
+     
+
+
 📌 *Sempre aberto a conexões, colaborações e oportunidades de aprendizado!*
