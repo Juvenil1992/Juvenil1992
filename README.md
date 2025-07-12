@@ -36,7 +36,14 @@ Projeto 1: https://github.com/Juvenil1992/Automacao-Bot-Game-Tibia  -  Primeiro 
 Primeiro contato com o PyAutogui e PyTesseract, Projeto Focado em Treinar Lógica de Programação.
 Obs: No Link do Repositório estará esplicado detalhadamente o Código.
 
-Projeto 2:
+Projeto 2: https://github.com/Juvenil1992/Automacao-Bot-Tibia-Finalizado - Aqui é uma continuação do primeiro projeto com uma grande quantidade de melhorias e a inclusão de funções.
+Leitura Inteligente da quantidade de Criaturas podendo configurar a utilização de magias com uma determinada quantidade de monstros.
+Leitura da quantidade de Potions na Backpack , Compra de Potions no NPC , checagem da Quantidade de Manas dentro Da Cave podendo escolher quantos potions ele volta pra cidade para depositar o loot e comprar mais mana potions.
+e melhorias de Funções já existentes no Projeto 1.
+
+Projeto 3: https://github.com/Juvenil1992/Site-Oliveira-Motociclismo - Primeiro Projeto Web em Desenvolvimento.
+Utilizando Django para estruturar o Site e Bootstrap Para Responsividade.
+Primeiro Contato com Banco de Dados.
      
 
 
