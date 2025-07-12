@@ -40,6 +40,7 @@ Projeto 2: https://github.com/Juvenil1992/Automacao-Bot-Tibia-Finalizado - Aqui 
 Leitura Inteligente da quantidade de Criaturas podendo configurar a utilização de magias com uma determinada quantidade de monstros.
 Leitura da quantidade de Potions na Backpack , Compra de Potions no NPC , checagem da Quantidade de Manas dentro Da Cave podendo escolher quantos potions ele volta pra cidade para depositar o loot e comprar mais mana potions.
 e melhorias de Funções já existentes no Projeto 1.
+Obs: No Link do Repositório estará esplicado detalhadamente o Código.
 
 Projeto 3: https://github.com/Juvenil1992/Site-Oliveira-Motociclismo - Primeiro Projeto Web em Desenvolvimento.
 Utilizando Django para estruturar o Site e Bootstrap Para Responsividade.
