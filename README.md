@@ -29,7 +29,53 @@ Acredito que a tecnologia pode transformar vidas, e estou determinado a evoluir 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 
 ---
+🚀 Projetos Pessoais
+🧠 Projeto 1 — Bot Básico para Tibia
+Desenvolvimento do primeiro bot para o jogo Tibia, com funcionalidades básicas:
 
+Movimentação automática em caves
+
+Sistema de cura e ataque a monstros
+
+Utilização inicial de bibliotecas como PyAutoGUI e PyTesseract
+
+🔍 Foco principal: prática de lógica de programação e automação de tarefas simples.
+📄 O repositório contém uma explicação detalhada de todo o código.
+
+⚙️ Projeto 2 — Bot Avançado para Tibia (Versão Finalizada)
+Continuação do Projeto 1, com grandes melhorias e novas funcionalidades:
+
+Leitura inteligente da quantidade de monstros usando OCR (PyTesseract)
+
+Uso automático de magias com base na quantidade de criaturas detectadas
+
+Leitura de potions na backpack
+
+Compra automática de potions com interação via diálogo com NPCs
+
+Checagem de quantidade mínima de potions e retorno automático para cidade para:
+
+Depositar o loot
+
+Comprar novas potions
+
+Diversas melhorias nas funções do projeto anterior
+
+🔍 Foco principal: automação mais inteligente e dinâmica com base no ambiente do jogo.
+📄 Explicações detalhadas disponíveis no repositório.
+
+🌐 Projeto 3 — Site Oliveira Motociclismo
+Primeiro projeto web, ainda em desenvolvimento.
+
+Utiliza Django para o backend e estruturação do site
+
+Bootstrap para responsividade
+
+Primeiro contato com banco de dados relacional
+
+Projeto voltado para um site de vendas de equipamentos para motociclistas
+
+🌱 Foco principal: aprendizado prático de desenvolvimento web com Python e integração com banco de dados.
 ###Projetos Pessoais
 
 Projeto 1: https://github.com/Juvenil1992/Automacao-Bot-Game-Tibia  -  Primeiro Projeto Básico de um Bot com funções de rodar na cave , cura e atacar os monstros no Jogo Tibia.
