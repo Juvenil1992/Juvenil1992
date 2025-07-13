@@ -32,6 +32,7 @@ Acredito que a tecnologia pode transformar vidas, e estou determinado a evoluir 
 🚀 Projetos Pessoais
 
 🧠 Projeto 1 — Bot Básico para Tibia - https://github.com/Juvenil1992/Automacao-Bot-Game-Tibia
+
 Desenvolvimento do primeiro bot para o jogo Tibia, com funcionalidades básicas:
 
 Movimentação automática em caves
@@ -45,6 +46,7 @@ Utilização inicial de bibliotecas como PyAutoGUI e PyTesseract
 
 
 ⚙️ Projeto 2 — Bot Avançado para Tibia (Versão Finalizada) - https://github.com/Juvenil1992/Automacao-Bot-Tibia-Finalizado
+
 Continuação do Projeto 1, com grandes melhorias e novas funcionalidades:
 
 Leitura inteligente da quantidade de monstros usando OCR (PyTesseract)
@@ -80,6 +82,7 @@ Primeiro contato com banco de dados relacional
 Projeto voltado para um site de vendas de equipamentos para motociclistas
 
 🌱 Foco principal: aprendizado prático de desenvolvimento web com Python e integração com banco de dados.
+
 
 
 
