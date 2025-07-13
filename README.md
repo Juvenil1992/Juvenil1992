@@ -42,6 +42,7 @@ Sistema de cura e ataque a monstros
 Utilização inicial de bibliotecas como PyAutoGUI e PyTesseract
 
 🔍 Foco principal: prática de lógica de programação e automação de tarefas simples.
+
 📄 O repositório contém uma explicação detalhada de todo o código.
 
 
@@ -66,6 +67,7 @@ Comprar novas potions
 Diversas melhorias nas funções do projeto anterior
 
 🔍 Foco principal: automação mais inteligente e dinâmica com base no ambiente do jogo.
+
 📄 Explicações detalhadas disponíveis no repositório.
 
 
