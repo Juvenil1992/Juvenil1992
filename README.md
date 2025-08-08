@@ -47,37 +47,10 @@ Utilização inicial de bibliotecas como PyAutoGUI e PyTesseract
 
 📄 O repositório contém uma explicação detalhada de todo o código.
 
--
-
-⚙️ Projeto 2 — Bot Avançado para Tibia (Versão Finalizada) - https://github.com/Juvenil1992/Automacao-Bot-Tibia-Finalizado
-
-Continuação do Projeto 1, com grandes melhorias e novas funcionalidades:
-
-Leitura inteligente da quantidade de monstros usando OCR (PyTesseract)
-
-Uso automático de magias com base na quantidade de criaturas detectadas
-
-Leitura de potions na backpack
-
-Compra automática de potions com interação via diálogo com NPCs
-
-Checagem de quantidade mínima de potions e retorno automático para cidade para:
-
-Depositar o loot
-
-Comprar novas potions
-
-Diversas melhorias nas funções do projeto anterior
 
 -
 
-🔍 Foco principal: automação mais inteligente e dinâmica com base no ambiente do jogo.
-
-📄 Explicações detalhadas disponíveis no repositório.
-
--
-
-🌐 Projeto 3 — Site Oliveira Motociclismo - https://github.com/Juvenil1992/Site-Oliveira-Motociclismo
+🌐 Projeto 2 — Site Oliveira Motociclismo - https://github.com/Juvenil1992/Site-Oliveira-Motociclismo
 
 Primeiro projeto web, ainda em desenvolvimento.
 
