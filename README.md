@@ -28,41 +28,7 @@ Acredito que a tecnologia pode transformar vidas, e estou determinado a evoluir 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 
----
-🚀 Projetos Pessoais
 
-🧠 Projeto 1 — Bot Básico para Tibia - https://github.com/Juvenil1992/Tibia-Bot-Python
-
-Desenvolvimento do primeiro bot para o jogo Tibia, com funcionalidades básicas:
-
-Movimentação automática em caves
-
-Sistema de cura e ataque a monstros
-
-Utilização inicial de bibliotecas como PyAutoGUI e PyTesseract
-
--
-
-🔍 Foco principal: prática de lógica de programação e automação de tarefas simples.
-
-📄 O repositório contém uma explicação detalhada de todo o código.
-
-
--
-
-🌐 Projeto 2 — Site Oliveira Motociclismo - https://github.com/Juvenil1992/Site-Oliveira-Motociclismo
-
-Primeiro projeto web, ainda em desenvolvimento.
-
-Utiliza Django para o backend e estruturação do site
-
-Bootstrap para responsividade
-
-Primeiro contato com banco de dados relacional
-
-Projeto voltado para um site de vendas de equipamentos para motociclistas
-
-🌱 Foco principal: aprendizado prático de desenvolvimento web com Python e integração com banco de dados.
 
 
 -
